@@ -1,63 +1,85 @@
  <div align="center">
 
-<!-- WOODLAND ANIMAL WORLD -->
+<img src="./Cheerful%20Baby%20Elephant%20Sticker.png" width="290" alt="My cheerful baby elephant"/>
 
-<img src="./Cute%20Woodland%20Animal%20Sticker%20Sheet.png" width="850" alt="Woodland animal sticker collection"/>
-
-# 🌿 ANANYAA THIRUMALAI RAJ 🌿
+# 🌿 Ananyaa Thirumalai Raj 🌿
 
 ### 🎨 Graphic Designer · 🌱 Machine Learning · 💻 Web Developer
 
-*Creating beautiful things, building clever things, and always staying curious.*
+*Growing ideas, designing dreams, and building things that matter.*
 
 [![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyaa-thirumalai-raj-58b748362/)
 [![GitHub](https://img.shields.io/badge/EXPLORE_MY_WORK-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ananyaaraj?tab=repositories)
 
+🌳 🦋 🌼 🐿️ 🍄 🌿 🐾 🌷
+
 </div>
 
 ---
 
 <div align="center">
 
-## 🦋 WELCOME TO MY LITTLE CREATIVE FOREST 🦋
+## 🌲 WELCOME TO MY LITTLE FOREST 🌲
 
-*Where imagination grows, ideas bloom, and code comes to life.*
+*Where creativity blooms, technology grows, and every idea finds its own path.*
 
 </div>
 
-Hello! I'm **Ananyaa**, a Software Systems student at **PSG College of Technology, Coimbatore**. I love bringing creativity and technology together — from designing eye-catching graphics to developing web applications and exploring machine learning.
+Hello! I'm **Ananyaa**, a Software Systems student at **PSG College of Technology, Coimbatore**.
 
-My world is a little bit of art, a little bit of code, and a whole lot of curiosity. 🌼
+I enjoy combining **creative design with technology** — from making eye-catching graphics and posters to developing web applications and exploring machine learning.
+
+My little forest is filled with curiosity, experiments, colourful ideas, and projects that help me grow. 🌱
+
+<div align="center">
+
+<img src="./Cute%20Woodland%20Animal%20Sticker%20Sheet.png" width="430" alt="My woodland animal friends"/>
+
+*Every little creature has its own story. Every project does too.*
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🎨 WHAT I LOVE CREATING
+## 🌸 MY WORLD OF CREATIVITY 🌸
 
 </div>
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🎨 Graphic Design
+### 🎨
 
-Visual storytelling, poster design, creative layouts, colour palettes, and designs that make people stop scrolling.
+### Graphic Design
 
-</td>
-<td width="33%" align="center">
+Creating engaging visuals, posters, layouts, and designs with colour, personality, and purpose.
 
-### 🌱 Machine Learning
-
-Exploring supervised learning, understanding data, training models, and turning patterns into useful predictions.
+🌷 *Making ideas visible.*
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 💻 Web Development
+### 🌱
 
-Building engaging interfaces, experimenting with frontend technologies, and turning ideas into interactive experiences.
+### Machine Learning
+
+Exploring supervised learning, working with data, training models, and discovering meaningful patterns.
+
+🐾 *Learning from every step.*
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 💻
+
+### Web Development
+
+Building websites and interactive interfaces using modern frontend technologies.
+
+🦋 *Bringing ideas to life.*
 
 </td>
 </tr>
@@ -67,13 +89,9 @@ Building engaging interfaces, experimenting with frontend technologies, and turn
 
 <div align="center">
 
-## 🧰 MY CREATIVE TOOLBOX
+## 🧰 THINGS IN MY CREATIVE TOOLBOX
 
-*Tools I use to turn little ideas into real projects.*
-
-</div>
-
-<div align="center">
+*My little collection of digital tools.*
 
 ### 💻 Programming
 
@@ -88,7 +106,7 @@ Building engaging interfaces, experimenting with frontend technologies, and turn
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🌿 Data & Developer Tools
+### 🌿 Other Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -101,9 +119,9 @@ Building engaging interfaces, experimenting with frontend technologies, and turn
 
 <div align="center">
 
-## 🍄 LITTLE IDEAS, REAL PROJECTS 🍄
+## 🍄 PROJECTS FROM MY FOREST 🍄
 
-*Every project is another step along the path.*
+*Little ideas growing into real-world creations.*
 
 </div>
 
@@ -115,9 +133,9 @@ Building engaging interfaces, experimenting with frontend technologies, and turn
 
 **Image Processing · Python**
 
-A project exploring grayscale image processing and the creative possibilities of working with pixels.
+Exploring grayscale image processing and transforming images through code.
 
-[🌿 Explore PixelCraft →](https://github.com/Ananyaaraj/Grayscale-image-processing)
+[Explore PixelCraft →](https://github.com/Ananyaaraj/Grayscale-image-processing)
 
 </td>
 <td width="50%" valign="top">
@@ -126,9 +144,9 @@ A project exploring grayscale image processing and the creative possibilities of
 
 **Machine Learning · Python**
 
-Exploring sentiment analysis and how machine learning can help interpret the meaning and emotion behind text.
+Exploring how machine learning can help identify sentiment and meaning in text.
 
-[🦊 Explore the project →](https://github.com/Ananyaaraj/sentimental-analysis)
+[Explore Sentimental Analysis →](https://github.com/Ananyaaraj/sentimental-analysis)
 
 </td>
 </tr>
@@ -139,9 +157,9 @@ Exploring sentiment analysis and how machine learning can help interpret the mea
 
 **Web Development · Problem Solving**
 
-A project focused on urban complaints and making it easier to represent community issues through a digital platform.
+A project focused on urban complaints and digital ways to represent community issues.
 
-[🐻 Explore Urban Voice →](https://github.com/Ananyaaraj/Urban-Voice)
+[Explore Urban Voice →](https://github.com/Ananyaaraj/Urban-Voice)
 
 </td>
 <td width="50%" valign="top">
@@ -150,9 +168,9 @@ A project focused on urban complaints and making it easier to represent communit
 
 **Python · Algorithms · Simulation**
 
-An ongoing warehouse simulation project exploring multi-robot coordination, task allocation, and collision-aware path planning.
+Exploring multi-robot coordination, task allocation, and collision-aware path planning in a warehouse simulation.
 
-[🐘 Explore my repositories →](https://github.com/Ananyaaraj?tab=repositories)
+[Explore my repositories →](https://github.com/Ananyaaraj?tab=repositories)
 
 </td>
 </tr>
@@ -160,7 +178,9 @@ An ongoing warehouse simulation project exploring multi-robot coordination, task
 
 <div align="center">
 
-[🌱 MORE PROJECTS IN MY FOREST 🌱](https://github.com/Ananyaaraj?tab=repositories)
+🌿 🐘 🦊 🌼 🦋 🐼 🌿
+
+[**WANDER THROUGH ALL MY PROJECTS →**](https://github.com/Ananyaaraj?tab=repositories)
 
 </div>
 
@@ -168,18 +188,16 @@ An ongoing warehouse simulation project exploring multi-robot coordination, task
 
 <div align="center">
 
-## 🦒 A MESSAGE FROM MY ANIMAL FRIENDS 🐼
+## 🐾 LITTLE THINGS ABOUT ME
 
-<img src="./Cute%20Woodland%20Animal%20Sticker%20Sheet.png" width="650" alt="Woodland animal friends"/>
-
-| 🌿 My forest friends say... | ✨ Their little reminder |
-|:---|:---|
-| 🐘 Elephant | Be gentle, but let your dreams be enormous. |
-| 🦊 Fox | Stay curious. There is always something new to discover. |
-| 🐢 Turtle | Slow progress is still progress. Keep going. |
-| 🦋 Butterfly | Let your creativity take flight. |
-| 🦒 Giraffe | Keep your head high and your perspective wide. |
-| 🐼 Panda | Make room for joy while you work toward your dreams. |
+| 🌱 | A little about my journey |
+|:---:|:---|
+| 🎓 | Software Systems student at PSG College of Technology, Coimbatore |
+| 🎨 | Interested in graphic design, poster making, and visual storytelling |
+| 🌿 | Exploring supervised machine learning |
+| 💻 | Learning and building with web technologies |
+| 🧩 | Enjoy solving problems and experimenting with new ideas |
+| 🌈 | Always learning, creating, and growing |
 
 </div>
 
@@ -187,30 +205,42 @@ An ongoing warehouse simulation project exploring multi-robot coordination, task
 
 <div align="center">
 
-## 🌻 A LITTLE MORE ABOUT ME
+## 🦊 A MESSAGE FROM MY WOODLAND FRIENDS
 
-🎓 Software Systems student at PSG College of Technology, Coimbatore
+*Tiny reminders from the forest to keep going.*
 
-🎨 Interested in graphic design, posters, and visual creativity
+🐘 **The Elephant says:** Be gentle, but let your dreams be enormous.
 
-🌱 Learning and building with supervised machine learning
+🦒 **The Giraffe says:** Look beyond what you already know.
 
-💻 Exploring web development and interactive applications
+🦁 **The Lion says:** Be brave enough to begin.
 
-🧩 I enjoy solving problems and bringing ideas to life
+🦌 **The Deer says:** Move with kindness and curiosity.
 
-🌈 Always learning. Always creating. Always growing.
+🐒 **The Monkey says:** Never stop exploring and experimenting.
+
+🦋 **The Butterfly says:** Give yourself room to grow and transform.
+
+🐼 **The Panda says:** Remember to make space for joy.
+
+🌻 *Keep creating. Keep learning. Keep becoming.*
 
 ---
 
-### 🌷 LET'S CREATE SOMETHING WONDERFUL 🌷
+### 🌷 LET'S CONNECT 🌷
 
-*“Stay curious, create with purpose, and leave a little colour wherever you go.”*
+Have an idea, a creative project, or something interesting to build? Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT_WITH_ME-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyaa-thirumalai-raj-58b748362/)
+[![LinkedIn](https://img.shields.io/badge/FIND_ME_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyaa-thirumalai-raj-58b748362/)
 
-**Thanks for wandering through my little forest!** 🌳🦋
+*Thanks for visiting my little corner of GitHub. May your ideas grow wild and wonderful!* 🌳
 
-<img src="./Cute%20Woodland%20Animal%20Sticker%20Sheet.png" width="850" alt="Goodbye from the woodland animal friends"/>
+## 🌲 UNTIL OUR NEXT FOREST ADVENTURE 🌲
+
+<img src="./Whimsical%20Woodland%20Friends%20Clearing.png" width="850" alt="A colourful woodland clearing filled with friendly cartoon animals"/>
+
+### 🌼 Stay curious · Create with purpose · Keep growing 🌼
+
+<img src="./Cute%20Woodland%20Animal%20Sticker%20Sheet.png" width="850" alt="All my cute woodland animal friends"/>
 
 </div>
