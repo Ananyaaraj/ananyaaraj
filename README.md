@@ -1,19 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFB7D5,25:DBC5FF,55:B8F2D0,80:FFF0A8,100:FFCBA4&text=ANANYAA&fontSize=78&fontColor=583B73&fontAlignY=38&desc=CREATE%20%E2%80%A2%20EXPLORE%20%E2%80%A2%20MAKE%20MAGIC&descSize=18&descAlignY=61&animation=fadeIn" alt="Welcome to Ananyaa's creative kingdom" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFE0B5,25:C8E8C5,55:D9C9F5,80:FFD6E7,100:FFF0B8&text=ANANYAA&fontSize=82&fontColor=4D654E&fontAlignY=38&desc=CREATIVITY%20%7C%20CODE%20%7C%20IMAGINATION&descSize=19&descAlignY=62" alt="Ananyaa's creative forest" />
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyElephant&backgroundColor=b6e3f4" width="210" alt="Happy elephant sticker" />
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyFox&backgroundColor=ffd5dc" width="160" alt="Happy fox sticker" />
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyPanda&backgroundColor=c0aede" width="190" alt="Happy panda sticker" />
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyBunny&backgroundColor=d1f4d1" width="150" alt="Happy bunny sticker" />
+# 🌿 Welcome to My Wildly Creative World
 
-### 🌷 Welcome to my little creative forest! 🌷
+*Big ideas. Beautiful designs. Endless adventures.*
 
-**🎨 Graphic Designer · 🌱 Machine Learning Explorer · 💻 Web Developer**
-
-*Big dreams, colourful ideas, and a forest full of possibilities!* 🌈
-
-<a href="https://www.linkedin.com/in/ananyaa-thirumalai-raj-58b748362/"><img src="https://img.shields.io/badge/💌_LET'S_CONNECT-LinkedIn-DBB8FF?style=for-the-badge&labelColor=FFF0FA" alt="Connect on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ananyaa-thirumalai-raj-58b748362/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-DCCBFF?style=for-the-badge&logo=linkedin&logoColor=59466D" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/ananyaaraj?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-C8E8C5?style=for-the-badge&logo=github&logoColor=365943" alt="Explore projects" /></a>
 
 </div>
 
@@ -21,110 +15,76 @@
 
 <div align="center">
 
-## 🌼 ━━━ A Little About Me ━━━ 🌼
-
-<img src="https://api.dicebear.com/9.x/big-ears/svg?seed=AnanyaaHappy&backgroundColor=ffd5dc" width="230" alt="Cheerful illustrated avatar" />
-
-</div>
-
-Hi, lovely explorer! 🦋
-
-I'm a **Software Systems student at PSG College of Technology, Coimbatore**, who loves bringing creativity and technology together.
-
-I enjoy designing beautiful visuals, building useful applications, and exploring machine learning. For me, the best projects combine clever ideas with a delightful experience.
-
-<details>
-<summary>🌸 <b>Things that make my creative heart happy!</b></summary>
-
-- 🎨 Graphic design, poster making, and visual storytelling
-- 🌱 Machine learning and supervised learning
-- 💻 Web development and interactive experiences
-- 🧩 Creative problem-solving and experimenting with ideas
-- 🌈 Learning something new and turning imagination into reality
-
-</details>
-
-<div align="center">
-
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyFoxArtist&backgroundColor=ffe4c9" width="125" alt="Happy artist fox" />
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyBunnyCoder&backgroundColor=d1f4d1" width="125" alt="Happy coding bunny" />
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyPandaDreamer&backgroundColor=e2d5ff" width="125" alt="Happy panda" />
-
-*Three little friends, one big creative adventure!* 🐾
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 My Magical Skill Garden
-
-*Every skill is a flower, and every new idea helps it bloom!* 🌻
-
-</div>
+## 🌳 Step Into My Forest
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center">
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=SuperHappyFox&backgroundColor=ffdfb8" width="145" alt="Smiling fox artist" />
+<img width="100%" src="https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=700&auto=format&fit=crop&q=85" alt="Elephant in the wild" />
 
-### 🎨 The Artist
-
-**Graphic Design**
-
-Visual storytelling
-
-Posters & illustrations
-
-Branding & layouts
-
-Creativity & aesthetics
+### 🐘 Dream Bigger
 
 </td>
-<td width="34%" align="center" valign="top">
+<td width="50%" align="center">
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=SuperHappyElephant&backgroundColor=c8e7ff" width="155" alt="Cheerful elephant explorer" />
+<img width="100%" src="https://images.unsplash.com/photo-1511497584788-876760111969?w=700&auto=format&fit=crop&q=85" alt="Sunlight filtering through a green forest" />
 
-### 🌱 The Explorer
-
-**Machine Learning**
-
-Data exploration
-
-Supervised learning
-
-Model building
-
-Pattern recognition
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=SuperHappyBunny&backgroundColor=ffe0ed" width="145" alt="Happy bunny developer" />
-
-### 💻 The Builder
-
-**Web Development**
-
-HTML & CSS
-
-JavaScript & React
-
-Responsive design
-
-Interactive interfaces
+### 🌿 Explore Freely
 
 </td>
 </tr>
 </table>
 
+</div>
+
+## 🌸 About Me
+
+I'm a **Software Systems student at PSG College of Technology, Coimbatore**, interested in the intersection of technology, design, and creativity.
+
+I enjoy making visual designs, building web applications, and exploring machine learning. I love projects that combine thoughtful engineering with a polished, engaging experience.
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img width="100%" src="https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=500&auto=format&fit=crop&q=85" alt="Colourful art materials" />
+
+### 🎨 Graphic Design
+
+Visual storytelling, poster design, creative layouts, and colour.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img width="100%" src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=500&auto=format&fit=crop&q=85" alt="Programming on a computer" />
+
+### 🌱 Machine Learning
+
+Supervised learning, data exploration, and model building.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img width="100%" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&auto=format&fit=crop&q=85" alt="Web development workspace" />
+
+### 💻 Web Development
+
+Building interactive, useful, and user-friendly web experiences.
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-### 🧰 My Digital Toolbox
+## 🌼 My Creative Toolbox
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,mysql,git,github,vscode&theme=light&perline=6" alt="Technologies and tools" />
+*Different tools, one curious mind.*
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,mysql,git,github,vscode&theme=light&perline=6" alt="Programming languages and tools" />
 
 </div>
 
@@ -132,68 +92,58 @@ Interactive interfaces
 
 <div align="center">
 
-## 🍄 Adventures in My Project Forest
+## 🍃 Adventures From My Project Forest
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyForestFriends&backgroundColor=d1f4d1" width="175" alt="Happy forest friends" />
-
-*Meet the little projects growing in my world!* 🌈
+*Every project begins with a little curiosity.*
 
 </div>
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=PixelCraftCat&backgroundColor=ffe0ed" width="145" alt="Happy PixelCraft cat" />
+<img width="100%" src="https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=650&auto=format&fit=crop&q=85" alt="Colourful creative art supplies" />
 
 ### 🎨 PixelCraft
 
-**The Pixel Playground**
+A grayscale image-processing project exploring image transformations and pixel-level operations.
 
-A grayscale image-processing project exploring image transformations and the magic hidden in pixels.
-
-<a href="https://github.com/Ananyaaraj/Grayscale-image-processing"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-FFBED8?style=for-the-badge&logo=github&logoColor=583B73" alt="Explore PixelCraft" /></a>
+<a href="https://github.com/Ananyaaraj/Grayscale-image-processing"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-DCCBFF?style=for-the-badge&logo=github&logoColor=59466D" alt="Explore PixelCraft" /></a>
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=SentimentPandaHappy&backgroundColor=d9f0df" width="145" alt="Happy sentiment panda" />
+<img width="100%" src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=650&auto=format&fit=crop&q=85" alt="Machine learning and coding workspace" />
 
 ### 💌 Sentimental Analysis
 
-**The Emotion Explorer**
-
 A machine-learning project exploring sentiment and patterns in text.
 
-<a href="https://github.com/Ananyaaraj/sentimental-analysis"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-CDBBFF?style=for-the-badge&logo=github&logoColor=583B73" alt="Explore Sentimental Analysis" /></a>
+<a href="https://github.com/Ananyaaraj/sentimental-analysis"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-F7C5D9?style=for-the-badge&logo=github&logoColor=59466D" alt="Explore Sentimental Analysis" /></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=UrbanVoiceOwlHappy&backgroundColor=cce9ff" width="145" alt="Happy Urban Voice owl" />
+<img width="100%" src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=650&auto=format&fit=crop&q=85" alt="A winding path through a green forest" />
 
 ### 🏡 Urban Voice
 
-**The Helpful Owl**
-
 A project focused on urban complaints and helping people communicate local issues.
 
-<a href="https://github.com/Ananyaaraj/Urban-Voice"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-AFEBD4?style=for-the-badge&logo=github&logoColor=315E4B" alt="Explore Urban Voice" /></a>
+<a href="https://github.com/Ananyaaraj/Urban-Voice"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-C8E8C5?style=for-the-badge&logo=github&logoColor=365943" alt="Explore Urban Voice" /></a>
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=RobotAntHappy&backgroundColor=fff0b8" width="145" alt="Happy robot ant" />
+<img width="100%" src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=650&auto=format&fit=crop&q=85" alt="Technology and engineering workspace" />
 
 ### 🤖 Multi-Robot Warehouse
 
-**The Busy Ant Colony**
-
 A warehouse simulation exploring robot coordination, A* pathfinding, and task allocation.
 
-<a href="https://github.com/ananyaaraj?tab=repositories"><img src="https://img.shields.io/badge/MORE%20PROJECTS-FFD28E?style=for-the-badge&logo=github&logoColor=583B73" alt="Explore more projects" /></a>
+<a href="https://github.com/ananyaaraj?tab=repositories"><img src="https://img.shields.io/badge/MORE%20PROJECTS-FFE0B5?style=for-the-badge&logo=github&logoColor=59466D" alt="Explore repositories" /></a>
 
 </td>
 </tr>
@@ -201,13 +151,13 @@ A warehouse simulation exploring robot coordination, A* pathfinding, and task al
 
 <div align="center">
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyButterfly&backgroundColor=fff0a8" width="110" alt="Happy butterfly" />
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyBear&backgroundColor=e4d5ff" width="140" alt="Happy bear" />
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyTurtle&backgroundColor=c6efd6" width="110" alt="Happy turtle" />
+<img width="100%" src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&auto=format&fit=crop&q=85" alt="A peaceful woodland landscape" />
 
-### 🦋 More adventures are always blooming!
+### 🦋 The Forest Is Always Growing
 
-<a href="https://github.com/ananyaaraj?tab=repositories">🌷 Come explore my repositories →</a>
+New ideas, new designs, and new projects are always welcome here.
+
+<a href="https://github.com/ananyaaraj?tab=repositories">🌷 Explore all my repositories →</a>
 
 </div>
 
@@ -217,64 +167,29 @@ A warehouse simulation exploring robot coordination, A* pathfinding, and task al
 
 ## 🐾 A Message From My Animal Friends
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=JoyfulElephant&backgroundColor=b6e3f4" width="190" alt="Joyful elephant" />
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=JoyfulFox&backgroundColor=ffd5dc" width="150" alt="Joyful fox" />
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=JoyfulPanda&backgroundColor=c0aede" width="175" alt="Joyful panda" />
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=JoyfulBunny&backgroundColor=d1f4d1" width="145" alt="Joyful bunny" />
+*Wisdom from the wild, for every creative adventure.*
 
-</div>
+<img width="100%" src="https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=1200&auto=format&fit=crop&q=85" alt="Elephants together in their natural habitat" />
 
-<table>
-<tr>
-<td align="center" width="25%">
+### 🐘 Be gentle, but let your dreams be enormous.
 
-### 🐘
+*You can be kind and ambitious at the same time.*
 
-**Dream BIG!**
+<br>
 
-Your imagination has no limits.
+<img width="100%" src="https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=1200&auto=format&fit=crop&q=85" alt="A fox surrounded by nature" />
 
-</td>
-<td align="center" width="25%">
+### 🦊 Stay curious enough to discover new paths.
 
-### 🦊
+*The most interesting ideas often begin with a question.*
 
-**Stay Curious!**
+<br>
 
-There is always something new to discover.
+<img width="100%" src="https://images.unsplash.com/photo-1511497584788-876760111969?w=1200&auto=format&fit=crop&q=85" alt="A beautiful green forest" />
 
-</td>
-<td align="center" width="25%">
+### 🦋 Keep growing, keep exploring, and let your creativity take flight.
 
-### 🐢
-
-**Keep Growing!**
-
-Every little step matters.
-
-</td>
-<td align="center" width="25%">
-
-### 🦋
-
-**Be Creative!**
-
-Let your ideas take flight.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyForestParty&backgroundColor=ffe0ed" width="210" alt="Happy animal celebration" />
-
-### 🌈 Be curious like a fox.
-### 🌻 Be kind like an elephant.
-### 🎨 Be imaginative like an artist.
-### 🐝 Keep creating, one little idea at a time.
-
-*You don't need to be perfect to make something wonderful.*
+*Every little step can lead to something wonderful.*
 
 </div>
 
@@ -282,20 +197,20 @@ Let your ideas take flight.
 
 <div align="center">
 
-## 💌 Let's Create Something Wonderful!
+## 🌈 Let's Create Something Wonderful
 
-<img src="https://api.dicebear.com/9.x/fun-emoji/svg?seed=HappyMailBunny&backgroundColor=d9f0df" width="160" alt="Happy bunny with a message" />
+<img width="100%" src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&auto=format&fit=crop&q=85" alt="A sunlit forest full of greenery" />
 
-Love creative ideas, fun projects, and thoughtful design? Let's connect!
+### Thank you for visiting my little forest! 🌿
 
-<a href="https://www.linkedin.com/in/ananyaa-thirumalai-raj-58b748362/"><img src="https://img.shields.io/badge/COME%20SAY%20HELLO-LinkedIn-DCCBFF?style=for-the-badge&logo=linkedin&logoColor=583B73" alt="Connect with me on LinkedIn" /></a>
+Whether it's a creative design, a new web experience, or a machine-learning experiment, there's always something new to discover.
+
+<a href="https://www.linkedin.com/in/ananyaa-thirumalai-raj-58b748362/"><img src="https://img.shields.io/badge/SAY%20HELLO-LinkedIn-DCCBFF?style=for-the-badge&logo=linkedin&logoColor=59466D" alt="Connect with me on LinkedIn" /></a>
 
 <br><br>
 
-**Thank you for visiting my little forest!** 🌷
+*Made with imagination, curiosity, and an elephant-sized dream.* 🐘
 
-*Made with imagination, curiosity, and an elephant-sized dream.* 🐘💗
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:FFB7D5,30:DBC5FF,60:B8F2D0,100:FFF0A8" alt="Colourful forest footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:FFE0B5,30:C8E8C5,60:D9C9F5,100:FFD6E7" alt="Colourful forest footer" />
 
 </div>
