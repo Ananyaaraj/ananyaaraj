@@ -1,232 +1,139 @@
-<div align="center">
+# 🌿 ANANYAA'S CREATIVE FOREST 🌿
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FFD3E5,25:E1D5FF,50:C8F3D5,75:FFF0B8,100:FFD8B8&text=ANANYAA&fontSize=82&fontColor=684B7D&fontAlignY=38&desc=MY%20LITTLE%20WORLD%20OF%20WONDER&descSize=19&descAlignY=62" alt="Ananyaa's colourful creative world" />
+<p align="center">
+  <img src="assets/animal-stickers.png" width="100%" alt="Colourful cartoon animal sticker collection featuring an elephant, giraffe, panda, fox, deer, bear and monkey"/>
+</p>
 
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=Elephant&backgroundColor=b6e3f4" width="190" alt="Elephant character sticker" />
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=Fox&backgroundColor=ffd5dc" width="150" alt="Fox character sticker" />
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=Panda&backgroundColor=c0aede" width="180" alt="Panda character sticker" />
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=Giraffe&backgroundColor=fff0b8" width="150" alt="Giraffe character sticker" />
+<h1 align="center">🦋 Hi, I'm Ananyaa! 🐘</h1>
 
-### 🌷 Welcome to My Creative Kingdom! 🌷
+<p align="center">
+  <b>Graphic Designer · Machine Learning Enthusiast · Web Developer</b>
+</p>
 
-*Where colourful ideas grow, curious minds wander, and imagination has no limits.*
-
-<a href="https://www.linkedin.com/in/ananyaa-thirumalai-raj-58b748362/"><img src="https://img.shields.io/badge/LET'S%20BE%20CREATIVE-LinkedIn-E7D5FF?style=for-the-badge&logo=linkedin&logoColor=684B7D" alt="LinkedIn" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌈 A Little About Me
-
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=Ananyaa&backgroundColor=ffd5dc" width="200" alt="Cheerful illustrated avatar" />
-
-**Software Systems Student · Graphic Designer · Machine Learning Explorer · Web Developer**
-
-</div>
-
-Hello, creative explorer! 🌼
-
-I'm a Software Systems student at **PSG College of Technology, Coimbatore**. I love mixing technology with creativity — designing visuals, building web experiences, and experimenting with machine learning.
-
-My dream is to create things that are not only useful, but also memorable, expressive, and beautiful.
-
-<div align="center">
-
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=HappyDeer&backgroundColor=d1f4d1" width="130" alt="Deer sticker" />
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=HappyRabbit&backgroundColor=ffe0ed" width="130" alt="Rabbit sticker" />
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=HappyBear&backgroundColor=d9d0ff" width="130" alt="Bear sticker" />
-
-</div>
+<p align="center">
+  🌷 Creating with imagination &nbsp; | &nbsp;
+  🌱 Learning with curiosity &nbsp; | &nbsp;
+  🎨 Designing with purpose
+</p>
 
 ---
 
-<div align="center">
+## 🦊 A Little About Me
 
-## 🎨 My Creative Garden
+Hello, fellow explorer! Welcome to my little corner of GitHub, where creativity meets code and every project is another adventure. 🌳
 
-</div>
+🎓 Software Systems student at **PSG College of Technology, Coimbatore**
 
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
+🎨 I enjoy graphic design, creative visuals and poster making.
 
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=ArtistFox&backgroundColor=ffe0b8" width="160" alt="Artist fox sticker" />
+🧠 I explore machine learning, especially supervised learning.
 
-### 🎨 Graphic Design
+💻 I build web experiences and experiment with new ideas.
 
-Visual storytelling, poster making, colour palettes, and creative layouts.
-
-</td>
-<td align="center" width="34%" valign="top">
-
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=LearningElephant&backgroundColor=c8e7ff" width="175" alt="Learning elephant sticker" />
-
-### 🌱 Machine Learning
-
-Supervised learning, data exploration, and model building.
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=CodingBunny&backgroundColor=ffd5dc" width="160" alt="Coding bunny sticker" />
-
-### 💻 Web Development
-
-Interactive interfaces, websites, and creative digital experiences.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🧰 My Digital Toolbox
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,mysql,git,github,vscode&theme=light&perline=6" alt="Programming tools and technologies" />
-
-</div>
+🌼 My goal is to create work that is useful, thoughtful and visually memorable.
 
 ---
 
-<div align="center">
+## 🐼 My Creative Playground
 
-## 🍄 Adventures in My Project Forest
+<p align="center">
+  <img src="assets/animal-stickers.png" width="78%" alt="Animal sticker artwork"/>
+</p>
 
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=ForestFriends&backgroundColor=d1f4d1" width="180" alt="Forest friends sticker" />
+| 🎨 Creative Studio | 🧠 Learning Lab | 💻 Digital Garden |
+|:--|:--|:--|
+| Graphic Design | Machine Learning | Web Development |
+| Poster Making | Supervised Learning | Frontend Development |
+| Visual Storytelling | Data & Models | Interactive Interfaces |
 
-*Little ideas, growing into big adventures.*
+---
 
-</div>
+## 🦒 Adventures I've Built
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
+### 🖼️ PixelCraft
+Exploring image processing and grayscale transformations.
 
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=PixelCat&backgroundColor=ffe0ed" width="170" alt="PixelCraft cat sticker" />
+**Tech:** Python · Image Processing
 
-### 🎨 PixelCraft
-
-A grayscale image-processing project exploring pixels and image transformations.
-
-<a href="https://github.com/Ananyaaraj/Grayscale-image-processing"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-FFD3E5?style=for-the-badge&logo=github&logoColor=684B7D" alt="PixelCraft project" /></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=SentimentPanda&backgroundColor=d9d0ff" width="170" alt="Sentiment panda sticker" />
+[🌱 Explore PixelCraft](https://github.com/Ananyaaraj/Grayscale-image-processing)
 
 ### 💌 Sentimental Analysis
+A machine-learning project exploring sentiment and text-based insights.
 
-A machine-learning project exploring sentiment and patterns in text.
+**Tech:** Python · Machine Learning
 
-<a href="https://github.com/Ananyaaraj/sentimental-analysis"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-E1D5FF?style=for-the-badge&logo=github&logoColor=684B7D" alt="Sentimental Analysis project" /></a>
+[🦊 Explore Sentimental Analysis](https://github.com/Ananyaaraj/sentimental-analysis)
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+### 🏙️ Urban Voice
+A project focused on urban complaints and making community feedback more accessible.
 
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=UrbanOwl&backgroundColor=c8f3d5" width="170" alt="Urban Voice owl sticker" />
+**Tech:** Web Development · Mapping
 
-### 🏡 Urban Voice
-
-A project focused on urban complaints and helping people communicate local issues.
-
-<a href="https://github.com/Ananyaaraj/Urban-Voice"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-C8F3D5?style=for-the-badge&logo=github&logoColor=365943" alt="Urban Voice project" /></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=RobotAnt&backgroundColor=fff0b8" width="170" alt="Robot ant sticker" />
+[🌿 Explore Urban Voice](https://github.com/Ananyaaraj/Urban-Voice)
 
 ### 🤖 Multi-Robot Warehouse
+Building toward a warehouse simulation with multiple robots, task allocation and path planning.
 
-A simulation exploring multi-robot coordination, A* pathfinding, and task allocation.
+**Tech:** Python · Algorithms · Simulation
 
-<a href="https://github.com/ananyaaraj?tab=repositories"><img src="https://img.shields.io/badge/MORE%20PROJECTS-FFF0B8?style=for-the-badge&logo=github&logoColor=684B7D" alt="More projects" /></a>
-
-</td>
-</tr>
-</table>
+[🐾 Explore my repositories](https://github.com/ananyaaraj?tab=repositories)
 
 ---
 
-<div align="center">
+## 🦋 My Toolbox
 
-## 🐾 A Message From My Animal Friends
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,mysql,git,github,vscode&perline=6" alt="Programming languages and development tools"/>
+</p>
 
-*Little reminders from a world full of wonder.*
-
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=DreamingElephant&backgroundColor=b6e3f4" width="200" alt="Elephant sticker" />
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=HappyGiraffe&backgroundColor=fff0b8" width="170" alt="Giraffe sticker" />
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=HappyPanda&backgroundColor=d9d0ff" width="180" alt="Panda sticker" />
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🐘 Dream BIG!
-
-Be gentle, but let your dreams be enormous.
-
-</td>
-<td align="center" width="25%">
-
-### 🦊 Stay Curious!
-
-Discover new paths and never stop exploring.
-
-</td>
-<td align="center" width="25%">
-
-### 🦋 Spread Your Wings!
-
-Let your creativity take flight.
-
-</td>
-<td align="center" width="25%">
-
-### 🐢 Keep Growing!
-
-Every little step matters.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=HappyButterfly&backgroundColor=ffd5dc" width="130" alt="Butterfly sticker" />
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=HappyDeer&backgroundColor=d1f4d1" width="145" alt="Deer sticker" />
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=HappyFoxFriend&backgroundColor=ffe0b8" width="135" alt="Fox sticker" />
-
-### 🌸 Be creative. Be curious. Be wonderfully you.
-
-*You don't need to be perfect to make something wonderful.*
-
-</div>
+<p align="center">
+  🎨 Graphic Design &nbsp; • &nbsp;
+  🧠 Supervised Machine Learning &nbsp; • &nbsp;
+  🌐 Web Development
+</p>
 
 ---
 
-<div align="center">
+## 🐝 A Message From My Animal Friends
 
-## 💌 Let's Create Something Wonderful!
+<p align="center">
+  🐘 <b>Be gentle, but let your dreams be enormous.</b>
+</p>
 
-<img src="https://api.dicebear.com/9.x/big-smile/svg?seed=MailBunny&backgroundColor=ffd5dc" width="180" alt="Bunny sticker" />
+<p align="center">
+  🦊 Stay curious. Keep exploring.
+</p>
 
-**Have an idea, a project, or a creative thought? Let's connect!**
+<p align="center">
+  🦌 Grow at your own pace.
+</p>
 
-<a href="https://www.linkedin.com/in/ananyaa-thirumalai-raj-58b748362/"><img src="https://img.shields.io/badge/SAY%20HELLO-LinkedIn-DCCBFF?style=for-the-badge&logo=linkedin&logoColor=684B7D" alt="LinkedIn contact" /></a>
+<p align="center">
+  🦋 Let your creativity take flight.
+</p>
 
-<br><br>
+<p align="center">
+  🐼 Small steps can lead to wonderful things.
+</p>
 
-*Made with imagination, curiosity, and an elephant-sized dream.* 🌷
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:FFD3E5,30:E1D5FF,60:C8F3D5,100:FFF0B8" alt="Pastel footer" />
+## 🌸 Let's Connect!
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananyaa-thirumalai-raj-58b748362/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-f4a6c1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ananyaaraj">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-c9b6f2?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  🌷 Thanks for wandering through my creative forest! 🌷
+</p>
+
+<p align="center">
+  <i>Made with curiosity, creativity, and a little bit of woodland magic.</i> ✨
+</p>
