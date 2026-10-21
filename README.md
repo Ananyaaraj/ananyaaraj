@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="./Cheerful%20Baby%20Elephant%20Sticker.png" width="290" alt="My cheerful baby elephant"/>
 
@@ -31,14 +31,6 @@ I enjoy combining **creative design with technology** — from making eye-catchi
 
 My little forest is filled with curiosity, experiments, colourful ideas, and projects that help me grow. 🌱
 
-<div align="center">
-
-<img src="./Cute%20Woodland%20Animal%20Sticker%20Sheet.png" width="430" alt="My woodland animal friends"/>
-
-*Every little creature has its own story. Every project does too.*
-
-</div>
-
 ---
 
 <div align="center">
@@ -51,35 +43,29 @@ My little forest is filled with curiosity, experiments, colourful ideas, and pro
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🎨
-
-### Graphic Design
+### 🎨 Graphic Design
 
 Creating engaging visuals, posters, layouts, and designs with colour, personality, and purpose.
 
-🌷 *Making ideas visible.*
+*Making ideas visible.* 🌷
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🌱
-
-### Machine Learning
+### 🌱 Machine Learning
 
 Exploring supervised learning, working with data, training models, and discovering meaningful patterns.
 
-🐾 *Learning from every step.*
+*Learning from every step.* 🐾
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 💻
-
-### Web Development
+### 💻 Web Development
 
 Building websites and interactive interfaces using modern frontend technologies.
 
-🦋 *Bringing ideas to life.*
+*Bringing ideas to life.* 🦋
 
 </td>
 </tr>
@@ -209,6 +195,8 @@ Exploring multi-robot coordination, task allocation, and collision-aware path pl
 
 *Tiny reminders from the forest to keep going.*
 
+<img src="./Cute%20Woodland%20Animal%20Sticker%20Sheet.png" width="750" alt="My cute woodland animal friends"/>
+
 🐘 **The Elephant says:** Be gentle, but let your dreams be enormous.
 
 🦒 **The Giraffe says:** Look beyond what you already know.
@@ -240,7 +228,5 @@ Have an idea, a creative project, or something interesting to build? Let's conne
 <img src="./Whimsical%20Woodland%20Friends%20Clearing.png" width="850" alt="A colourful woodland clearing filled with friendly cartoon animals"/>
 
 ### 🌼 Stay curious · Create with purpose · Keep growing 🌼
-
-<img src="./Cute%20Woodland%20Animal%20Sticker%20Sheet.png" width="850" alt="All my cute woodland animal friends"/>
 
 </div>
